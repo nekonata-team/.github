@@ -19,6 +19,8 @@
 ## Web site
 
 - [billee](https://billee.nekonata.dev/)
+  - [App Store](https://apps.apple.com/jp/app/billee/id6451083418)
+  - [Google Play](https://play.google.com/store/apps/details?id=com.app.nekonata)
 - [recomen](https://recomen.nekonata.dev/)
 
 ## Blog
