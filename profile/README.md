@@ -35,3 +35,4 @@ For Mobile, or Web, or... Anything!
 ## Featured
 
 - [Appliv - billee](https://app-liv.jp/5351082/)
+- [Saitama University - billee](https://www.saitama-u.ac.jp/news_archives/202406011000.html)
